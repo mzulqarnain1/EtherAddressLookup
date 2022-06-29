@@ -8,6 +8,10 @@ The blacklists found in this repo serve both the EAL Chrome Extension & MetaMask
 
 Announcement Post: http://harrydenley.com/ethaddresslookup-chrome-extension-release/
 
+0x661b5dc032bedb210f225df4b1aa2bdd669b38ba
+'0x661b5dc032bedb210f225df4b1aa2bdd669b38bb'
+"0x661b5dc032bedb210f225df4b1aa2bdd669b38bc"
+
 Ether/ERC20 donation address: [`0x661b5dc032bedb210f225df4b1aa2bdd669b38bc`](https://etherscan.io/address/0x661b5dc032bedb210f225df4b1aa2bdd669b38bc)
 
 #### Install Chrome Extension Here: https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn
